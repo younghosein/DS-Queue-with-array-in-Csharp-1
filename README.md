@@ -1,1 +1,8 @@
-# DS-Queue-with-arrayn-with-Csharp-1
+---# Readme:
+ 
+---
+ 
+<h2 align='center'>Implement Queue with array in C#</h2>
+<h3 quote align='center'>Data Structure</h3 quote>
+ 
+---
